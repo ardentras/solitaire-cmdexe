@@ -1,6 +1,6 @@
 # Solitaire (for cmd.exe)
 
-(c) 2017 Shaun Rasmusen
+(c) 2016 Shaun Rasmusen
 
 ---
 
